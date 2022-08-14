@@ -26,15 +26,12 @@ function repeat() {
     sound1.autostart = true;
   }
   if (document.getElementById(soundTwoCurrId).checked) {
-    // console.log("true");
     sound2.autostart = true;
   }
   if (document.getElementById(soundThreeCurrId).checked) {
-    // console.log("true");
     sound3.autostart = true;
   }
   if (document.getElementById(soundFourCurrId).checked) {
-    // console.log("true");
     sound4.autostart = true;
   }
 
